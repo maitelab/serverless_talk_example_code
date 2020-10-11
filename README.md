@@ -7,3 +7,5 @@ Here you will find the example source code used for the tech talk.
 - Create a lambda function, use any name you want, associated to the S3 bucket as "trigger when S3 receives a file", copy the text from "lambda_function.py" into the lambda function
 - Create a dynamo table named "input_data"
 - Run upload_data_to_s3.py
+
+Link to the tech talk (spanish)  https://www.youtube.com/watch?v=KL2AIvDLF34
